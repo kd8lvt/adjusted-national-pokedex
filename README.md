@@ -5,6 +5,7 @@ Generate an adjusted national pokedex, based on evolution lines rather than orde
 ## Usage
 
 `node index` - Generate required files. Thank you https://pokeapi.co!
+
 `node get_anp_id <pokemon name>` - Gets the Adjusted National Pokedex ID of a pokemon.
 
 ## Why
